@@ -5,7 +5,4 @@ http://prose.io/
 
 ## contributing
 
-* *fork* this repo
-* go to http://prose.io and log in
-* edit with *prose* your fork of ouishare-v2-user-stories
-* send *pull request* from page of your fork on github
+just visit http://prose.io/#elf-pavlik/ouishare-v2-user-stories
