@@ -6,3 +6,13 @@ http://prose.io/
 ## contributing
 
 just visit http://prose.io/#elf-pavlik/ouishare-v2-user-stories
+
+
+### symbols for feature status
+hint: *copy&paste*
+
+* ✓ - provided
+* ⊛ - almost there
+* ⊕ - partial
+* ⊝ - not done yet
+* ⊙ - maybe
