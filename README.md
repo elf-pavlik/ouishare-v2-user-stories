@@ -5,8 +5,16 @@ http://prose.io/
 
 ## contributing
 
-just visit http://prose.io/#elf-pavlik/ouishare-v2-user-stories
 
+### outline format
+in your *User Stories* please use **Given** -> **When** -> **Then** format
+
+* *Given* some **precondition**
+ * *And* another **precondition**
+* *When* some **interaction** taken by person using a website
+ * *And* another possible **interaction**
+* *Then* some **expected result** of interaction
+ * *And* another **expected result**
 
 ### symbols for feature status
 hint: *copy&paste*
@@ -16,3 +24,6 @@ hint: *copy&paste*
 * ⊕ - partial
 * ⊝ - not done yet
 * ⊙ - maybe
+
+### online editor
+just visit http://prose.io/#elf-pavlik/ouishare-v2-user-stories
