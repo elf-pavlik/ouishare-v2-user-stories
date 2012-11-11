@@ -38,5 +38,5 @@ User Stories related to **Events** including ones organized by *OuiShare* commun
 
 * **Given** someone organizes a *OuiShare* event
 * **When** I visit a webpage of this event
-* **Then** I should see section with links event pages on *SNP*
+* **Then** I should see section with links to event pages on *SNP*
  * **And** one of links should point to *Facebook* event's page
