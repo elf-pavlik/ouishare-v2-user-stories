@@ -2,6 +2,13 @@
 User Stories related to **Events** including ones organized by *OuiShare* community as well as ones organized independently but still in a field of our interest
 
 
+---
+
+
+**✓ - provided | ⊛ - almost there | ⊕ - partial | ⊝ - not done yet | ⊙ - maybe**
+
+
+---
 
 ## Event page of an event organized by *OuiShare* community
 
