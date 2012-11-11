@@ -25,3 +25,11 @@ User Stories related to **Events** including ones organized by *OuiShare* commun
 * **When** I visit a webpage of this event
 * **Then** I should see a map zoomed on *Berlin*
  * **And** I should see a marker showing location of *Betahaus*
+ 
+
+### ⊝ Links to event pages on social netorking platforms (*SNP*)
+
+* **Given** someone organizes a *OuiShare* event
+* **When** I visit a webpage of this event
+* **Then** I should see section with links event pages on *SNP*
+ * **And** one of links should point to *Facebook* event's page
