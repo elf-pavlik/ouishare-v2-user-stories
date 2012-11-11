@@ -1,5 +1,5 @@
 Repository storing **User Stories** for next release (V2) of
-http://ouishare.net Intended to allow easy contributions with
+http://ouishare.net intended to allow easy contributions with
 http://prose.io/
 
 
@@ -17,13 +17,15 @@ in your *User Stories* please use **Given** -> **When** -> **Then** format
  * *And* another **expected result**
 
 ### symbols for feature status
-hint: *copy&paste*
 
-* ✓ - provided
-* ⊛ - almost there
-* ⊕ - partial
-* ⊝ - not done yet
-* ⊙ - maybe
+---
+
+
+**✓ - provided | ⊛ - almost there | ⊕ - partial | ⊝ - not done yet | ⊙ - maybe**
+
+---
+
+hint: *copy&paste*
 
 ### online editor
 just visit http://prose.io/#elf-pavlik/ouishare-v2-user-stories
