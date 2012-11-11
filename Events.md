@@ -5,7 +5,7 @@ User Stories related to **Events** including ones organized by *OuiShare* commun
 
 ## Event page of an event organized by *OuiShare* community
 
-### Minimal information about an event
+### ⊛ Minimal information about an event
 
 * **Given** someone organizes a *OuiShare* event
  * **And** it happens in city of *Berlin*
@@ -17,7 +17,7 @@ User Stories related to **Events** including ones organized by *OuiShare* commun
  * **And** I should see *October 30 2012*
  
 
-### Map of a venue where event happens
+### ⊛ Map of a venue where event happens
 
 * **Given** someone organizes a *OuiShare* event
  * **And** it happens in city of *Berlin*
