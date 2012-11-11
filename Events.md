@@ -15,3 +15,13 @@ User Stories related to **Events** including ones organized by *OuiShare* commun
 * **Then** I should see *Berlin*
  * **And** I should see *Betahaus* with a link to it's homepage
  * **And** I should see *October 30 2012*
+ 
+
+### Map of a venue where event happens
+
+* **Given** someone organizes a *OuiShare* event
+ * **And** it happens in city of *Berlin*
+ * **And** we plan to host it in *Betahaus*
+* **When** I visit a webpage of this event
+* **Then** I should see a map zoomed on *Berlin*
+ * **And** I should see a marker showing location of *Betahaus*
