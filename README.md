@@ -29,3 +29,8 @@ hint: *copy&paste*
 
 ### online editor
 just visit http://prose.io/#elf-pavlik/ouishare-v2-user-stories
+
+
+### features groups
+
+* [Events](http://prose.io/#elf-pavlik/ouishare-v2-user-stories/edit/master/Events.md)
